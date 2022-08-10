@@ -1,0 +1,40 @@
+.orange {
+    background-color: orangered;
+}
+
+.noShow {
+    display: none;
+}
+
+.show {
+    display: block;
+    font-size: 40px;
+    font-weight: 500;
+    color: red;
+
+}
+
+.butt {
+    margin: 15px auto;
+    width: 90px;
+    height: 50px;
+    background-color: ivory;
+    border: 5px solid green;
+    box-shadow: 25px 25px 7px 3px;
+    border-radius: 5px;
+    color: blue;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.butt:hover {
+    width: 100px;
+    height: 55px;
+    background-color: aquamarine;
+    border: 5px solid green;
+    box-shadow: 30px 30px 9px 5px;
+    border-radius: 7px;
+    font-size: 35px;
+    cursor: pointer;
+}
